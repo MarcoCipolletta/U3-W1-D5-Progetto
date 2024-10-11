@@ -11,6 +11,7 @@ import { FiatComponent } from './pages/fiat/fiat.component';
 import { VolkswagenComponent } from './pages/volkswagen/volkswagen.component';
 import { ToyotaComponent } from './pages/toyota/toyota.component';
 import { AudiComponent } from './pages/audi/audi.component';
+import { BrandHoverComponent } from './main-components/brand-hover/brand-hover.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { AudiComponent } from './pages/audi/audi.component';
     FiatComponent,
     VolkswagenComponent,
     ToyotaComponent,
-    AudiComponent
+    AudiComponent,
+    BrandHoverComponent
   ],
   imports: [
     BrowserModule,

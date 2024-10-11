@@ -3,7 +3,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "500L",
-    "modelImage": "https://picsum.photos/200/300?random=1",
+    "modelImage": "https://storage.ecodibergamo.it/media/photologue/2015/5/17/photos/cache/fiat-500l-speciale-expo-turbo-benzina-e-gpl_5befccf4-fc92-11e4-80e2-5ac5d5d6c0b0_900_512_v3_large_libera.jpg",
     "year": 2015,
     "price": 7500,
     "available": false
@@ -12,7 +12,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "500 Abarth",
-    "modelImage": "https://picsum.photos/200/300?random=2",
+    "modelImage": "https://www.motornet.it/img/modelli/auto/ABA/595.jpg",
     "year": 2010,
     "price": 3500,
     "available": true
@@ -21,7 +21,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "Panda",
-    "modelImage": "https://picsum.photos/200/300?random=11",
+    "modelImage": "https://www.motornet.it/img/modelli/auto/FIA/PANDA%202021_1.jpg",
     "year": 2018,
     "price": 8900,
     "available": true
@@ -30,7 +30,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "Tipo",
-    "modelImage": "https://picsum.photos/200/300?random=12",
+    "modelImage": "https://www.motornet.it/img/modelli/auto/FIA/TIPO%204P_1.jpg",
     "year": 2019,
     "price": 12500,
     "available": true
@@ -39,7 +39,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "124 Spider",
-    "modelImage": "https://picsum.photos/200/300?random=13",
+    "modelImage": "https://www.media.stellantis.com/cache/9/b/b/3/2/9bb326c0b645e99c91fd0ce15bb874f86d85ae5b.jpeg",
     "year": 2017,
     "price": 18000,
     "available": false
@@ -48,7 +48,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "Ducato",
-    "modelImage": "https://picsum.photos/200/300?random=14",
+    "modelImage": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2012/06/23/137177/354899/fiat_ducato_van_l1h1_2022_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_3702236.jpg",
     "year": 2020,
     "price": 25000,
     "available": true
@@ -57,7 +57,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "500",
-    "modelImage": "https://picsum.photos/200/300?random=33",
+    "modelImage": "https://www.you-go.it/wp-content/uploads/2021/02/fiat-500-v2.png",
     "year": 2012,
     "price": 5000,
     "available": true
@@ -66,7 +66,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "Bravo",
-    "modelImage": "https://picsum.photos/200/300?random=34",
+    "modelImage": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2009/05/31/16029/15283/fiat_bravo_2007_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_96396.jpg",
     "year": 2013,
     "price": 7000,
     "available": true
@@ -75,7 +75,7 @@
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
     "model": "Croma",
-    "modelImage": "https://picsum.photos/200/300?random=35",
+    "modelImage": "https://immagini.alvolante.it/sites/default/files/styles/image_gallery_big/public/serie_auto_galleria/2010/02/Croma_03.png",
     "year": 2009,
     "price": 3000,
     "available": false
@@ -83,9 +83,9 @@
   {
     "brand": "Fiat",
     "brandLogo": "logoFiat.png",
-    "model": "Uno",
-    "modelImage": "https://picsum.photos/200/300?random=36",
-    "year": 2007,
+    "model": "Doblò",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/FIA264A-E-DOBLO%202024_1.jpg",
+    "year": 2024,
     "price": 1500,
     "available": true
   },
@@ -94,7 +94,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Taurus",
-    "modelImage": "https://picsum.photos/200/300?random=3",
+    "modelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWokYRR8PisUsBZtSLF977pDsOmSjRy2R3g&s",
     "year": 2009,
     "price": 5200,
     "available": false
@@ -103,7 +103,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Focus",
-    "modelImage": "https://picsum.photos/200/300?random=4",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/FOR877A-FOCUS%20ACTIVE%202021_1_1.jpg",
     "year": 2014,
     "price": 9700,
     "available": true
@@ -112,7 +112,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Mustang",
-    "modelImage": "https://picsum.photos/200/300?random=15",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/FOR569A-Mustang%20Coupe.jpg",
     "year": 2018,
     "price": 32000,
     "available": true
@@ -121,7 +121,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Explorer",
-    "modelImage": "https://picsum.photos/200/300?random=16",
+    "modelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3BCDThzu-2alnguZRHWN4qjDzuEDGduOHQ&s",
     "year": 2019,
     "price": 35000,
     "available": false
@@ -130,7 +130,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "F-150",
-    "modelImage": "https://picsum.photos/200/300?random=17",
+    "modelImage": "https://www.mustang-italia.it/img_modelli_2020/f-150/f150-modelli-03/05_F-150-KING-RANCH-ok.jpg",
     "year": 2020,
     "price": 40000,
     "available": true
@@ -139,7 +139,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Escape",
-    "modelImage": "https://picsum.photos/200/300?random=18",
+    "modelImage": "https://i.pinimg.com/736x/20/97/67/20976752945eaba1e226498b8704a5f1.jpg",
     "year": 2017,
     "price": 15000,
     "available": true
@@ -148,7 +148,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Fusion",
-    "modelImage": "https://picsum.photos/200/300?random=37",
+    "modelImage": "https://img.freepik.com/premium-photo/stunning-white-color-ford-fusion-white-png-transparent-background_94628-50968.jpg",
     "year": 2013,
     "price": 6000,
     "available": true
@@ -157,7 +157,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Edge",
-    "modelImage": "https://picsum.photos/200/300?random=38",
+    "modelImage": "https://img.freepik.com/foto-premium/auto-isolata-su-sfondo-bianco-ford-edge-white-auto-vuota-pulita-su-sfondo-bianco-bianco-nero_655090-606547.jpg",
     "year": 2015,
     "price": 11000,
     "available": true
@@ -166,7 +166,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Bronco",
-    "modelImage": "https://picsum.photos/200/300?random=39",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/FOR019B-BRONCO_1_0.jpg",
     "year": 2021,
     "price": 45000,
     "available": false
@@ -175,7 +175,7 @@
     "brand": "Ford",
     "brandLogo": "logoFord.png",
     "model": "Ranger",
-    "modelImage": "https://picsum.photos/200/300?random=40",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/FOR025B-RANGER%20RAPTOR_1_0.jpg",
     "year": 2019,
     "price": 28000,
     "available": true
@@ -185,7 +185,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "A3",
-    "modelImage": "https://picsum.photos/200/300?random=5",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/AUD812E-A3%20ALLSTREET%202024_1.jpg",
     "year": 2012,
     "price": 4300,
     "available": true
@@ -194,7 +194,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "Q7",
-    "modelImage": "https://picsum.photos/200/300?random=6",
+    "modelImage": "https://www.you-go.it/wp-content/uploads/2020/10/Q7-2019_1.jpeg",
     "year": 2020,
     "price": 41700,
     "available": false
@@ -203,7 +203,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "A4",
-    "modelImage": "https://picsum.photos/200/300?random=19",
+    "modelImage": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2010/03/18/24515/261555/audi_a4_sedan_2020_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_3523839.png",
     "year": 2018,
     "price": 28000,
     "available": true
@@ -212,7 +212,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "Q5",
-    "modelImage": "https://picsum.photos/200/300?random=20",
+    "modelImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTHqHMvYQQ-vzkNRv5CPFuzafusPYAoh8iQ&s",
     "year": 2019,
     "price": 35000,
     "available": true
@@ -221,7 +221,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "TT",
-    "modelImage": "https://picsum.photos/200/300?random=21",
+    "modelImage": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/08/13/463730/464582/audi_tt_rs_2020_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_4765722.jpg",
     "year": 2017,
     "price": 30000,
     "available": false
@@ -230,7 +230,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "R8",
-    "modelImage": "https://picsum.photos/200/300?random=22",
+    "modelImage": "https://i.pinimg.com/736x/45/f5/90/45f590c32075eee7fb62aab7e7c4c624.jpg",
     "year": 2021,
     "price": 150000,
     "available": true
@@ -239,7 +239,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "A5",
-    "modelImage": "https://picsum.photos/200/300?random=41",
+    "modelImage": "https://www.motornet.it/img/modelli/auto/AUD/A5%20COUPE_1.jpeg",
     "year": 2016,
     "price": 25000,
     "available": true
@@ -248,7 +248,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "S3",
-    "modelImage": "https://picsum.photos/200/300?random=42",
+    "modelImage": "https://mediaservice.audi.com/media/fast/H4sIAAAAAAAA_y2VzcolOxWGd3fTfQ4Kih4O4tDJh3DAldR_DT60eyTogQbFSSNNUpVKspP6S1JV366L8ErOnTgRp068AXHgxIngW-Ikz14rayVZybtqf_eP29st3N58-vThN__56dda_61-fbu9LLfb7RX8rz99-O5fP_n3uy9___f_u9-tt7dpC3J-hZCPr79nR6EV3Relf3j7Aq7bW0y8-nANf8bw9q8Y3vzz9r_xSvnZNfPHy373pze32_d_dbt98eWVd_vBV1vwiwhi_EVQcZmnaHf1o5-XXHaDqvpKKibzXqqiafKBN23Hec9LUTEhClarH2Ozv_Rqo0HkfRcn3jUvZQrUPIZYPihjWUm8-EZyyamsvlGWBBJ1DmyKCRJyrgwDAl9gqT7rDBDYAqcei0ORMDvvYVlZbAPg9Q7LSa5KEl6vipOIqnrB0lErgbk46vFyxvKONeODOTiT4C9wblE0WOXYm3tOUhjuHkC6Zz2wcw8LRxo6ktpND0bSS4lzyvngEQkhcrGSTILtmjojMlMBYb1z6uauK4FF2JQD0m4F0N3VZfX2yKkXIY-MemXzQVA_GH5XAPargV2zklSnJlsDsxo4qX5g9g4ctfCkrKlTB_g9IXIx9QsQbX0wGtRWofbBHDvyBh8bV9Aw98MCK8rNZMBSeoSccUBFWk2N3kg7wx4DsPumIj3OKT9IB9GgBh3S3jHScdG8J32I6pGRUUGgTKNwuxeOBndtrGBTAYzVtAIxn04yTrTCkYlHYxOZrXeo3Txkht3tFLcSCLHwFVm82MTIieCaAMTVcXJ9LExJzp_sAWtc1tCSm02eMmDUEgnzXp4DuTDyE1aIDLW7KEqc2sXNCURuxrmc3JlyLsmLrnQl-W5Z14x8Lydcne_76X5hVjigV8IzD0x8qoGQQ5_eikZfGH3i5J1Q0KB3ss4F0NUVMIcad-2DyBYH7FAT-ajavSe_jbUZaBT9hMsaRaygibGPA4oeB9HGlkan1JgBW3OWNM7CQq14jTHUNIm93jRN0zScnBYx6uVCbNuOFmmKpaClS20babFTixtcnG-h8sXNbYOQaNvW0KrHYWW0bkIAQfRDfmG2zQPYWvRKgOoCp9C7Gg8QLr31gN_xYgEzuqEQE0Mvh22YzoyikFV3QddDCxjBGLBlLlKUodlHil1aPafYm0JhTonVVhSHMxtgacctYOWUPQCV-xIwhbicJ_OO4iRqKCROpoEK4rLVaMoYTGURmfpaYts0ZPcNMEx6AKdVFPd5uFY5QvPSALGZKkpuL7B7WnQL9aTFS15QCkMJ2aS4TAnOXa17TunYeBSUHgtXL8CZnTXt0nG0xT47jaX3Oa5oiz3t7bnTIXybBBAUJHXYfdWcjihqFH3EWGhDp8SnRwAhO4BhZKmn06riVHQ6aAJOt-dY-txMO7Jfqmm3YZ5GNaXnb-dv33_-9bxF9XTYPpln3mbsySirTXrmRcGehF-MeE5hU0-dGNGlz79LW2_nz-8_Z58ZQ8CEv41k8Yl__jhHe_367ZX-FJNSwU5aTNqrZ86-evP-Dx__C1RBdnekBgAA?mimetype=image/png",
     "year": 2017,
     "price": 34000,
     "available": true
@@ -257,7 +257,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "Q3",
-    "modelImage": "https://picsum.photos/200/300?random=43",
+    "modelImage": "https://cdn1.carplanner.com/cars/Audi/Q3/12AUD9348001H.jpg",
     "year": 2019,
     "price": 37000,
     "available": true
@@ -266,7 +266,7 @@
     "brand": "Audi",
     "brandLogo": "logoAudi.png",
     "model": "RS6",
-    "modelImage": "https://picsum.photos/200/300?random=44",
+    "modelImage": "https://img.freepik.com/foto-premium/audi-rs6-avant-auto-elegante-di-lusso-isolata-su-sfondo-bianco-generativo_945369-2763.jpg",
     "year": 2020,
     "price": 120000,
     "available": false

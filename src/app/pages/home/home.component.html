@@ -1,48 +1,21 @@
-<div class="hero d-flex bg-danger-subtle">
-  <div class="w-50">
+<div class="hero d-flex flex-column flex-md-row bg-danger-subtle">
+  <div>
     <img
       src="https://scene7.toyota.eu/is/image/toyotaeurope/gt86-driving-along-road-1920x1080?wid=1280&fit=fit,1&ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0"
       class="w-100"
     />
   </div>
-  <div
-    class="w-50 p-3 d-flex flex-column justify-content-center align-items-center"
-  >
+  <div class="p-3 d-flex flex-column justify-content-center align-items-center">
     <h1>Lorem ipsum dolor sit amet.</h1>
-    <p class="w-50">
+    <p class="">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem
       assumenda reiciendis! Lorem ipsum, dolor sit amet consectetur adipisicing
       elit. Veritatis, sapiente!
     </p>
   </div>
 </div>
-<div class="container my-5">
-  <!-- <div class="row justify-content-center">
-    <div class="col col-md-8 d-flex justify-content-around">
-      <div class="row row-cols-5 g-3">
-        <div class="col d-flex align-items-center">
-          <img routerLink="/audi" src="logoAudi.png" class="w-100" alt="" />
-        </div>
-        <div class="col d-flex align-items-center">
-          <img routerLink="/fiat" src="logoFiat.png" class="w-100" alt="" />
-        </div>
-        <div class="col d-flex align-items-center">
-          <img routerLink="/ford" src="logoFord.png" class="w-100" alt="" />
-        </div>
-        <div class="col d-flex align-items-center">
-          <img routerLink="/toyota" src="logoToyota.png" class="w-100" alt="" />
-        </div>
-        <div class="col d-flex align-items-center">
-          <img
-            routerLink="/volkswagen"
-            src="logoVolkswagen.png"
-            class="w-100"
-            alt=""
-          />
-        </div>
-      </div>
-    </div>
-  </div> -->
+<div class="container">
+  <app-brand-hover></app-brand-hover>
 
   <h3 class="mb-4">Le più cercate</h3>
   <div class="row justify-content-center" *ngIf="twoRndmCar">
@@ -50,29 +23,53 @@
       class="col col-12 col-md-8 d-flex flex-column flex-sm-row gap-5 justify-content-between"
     >
       <div
-        [ngClass]="{ card: true, disp: car.available, indsp: !car.available }"
+        [ngClass]="{
+          card: true,
+          'mx-auto': true,
+          disp: car.available,
+          indsp: !car.available
+        }"
         *ngFor="let car of twoRndmCar"
       >
-        <img
-          src="{{ car.modelImage }}"
-          class="card-img-top car-img"
-          alt="immagine macchina"
-          height="200px"
-        />
-        <div class="card-body">
+        <div class="position-relative">
+          <span
+            *ngIf="!car.available"
+            class="badge text-bg-danger position-absolute available"
+            >Non disponibile</span
+          >
+          <span
+            *ngIf="car.available"
+            class="badge text-bg-success position-absolute available"
+            >Disponibile</span
+          >
+          <!-- <span class="badge text-bg-danger available">Danger</span> -->
+          <img
+            src="{{ car.modelImage }}"
+            class="card-img-top car-img"
+            alt="immagine macchina"
+          />
+        </div>
+        <div class="card-body position-relative">
           <h5 class="card-title">{{ car.model }}</h5>
-          <p class="card-text">{{ car.year }}</p>
+          <p class="card-text">
+            <span>Anno:</span> <span class="fw-bold"> {{ car.year }}</span>
+          </p>
           <p class="card-text">{{ car.price | currency : "EUR" }}</p>
           <p class="card-text">
             {{ car.available ? "Pronta consegna" : "Da ordinare" }}
           </p>
-          <img src="{{ car.brandLogo }}" width="75px" alt="" />
+          <img
+            class="carBrandLogo"
+            src="{{ car.brandLogo }}"
+            width="75px"
+            alt=""
+          />
         </div>
-        <div class="card-footer">
+        <div class="card-footer border-0 bg-transparent">
           <a
             routerLink="/{{ car.brand.toLowerCase() }}"
-            class="btn btn-primary w-100"
-            >Vedi tutte le macchine del brand</a
+            class="btn btn-outline-dark w-100"
+            >Vai al brand</a
           >
         </div>
       </div>

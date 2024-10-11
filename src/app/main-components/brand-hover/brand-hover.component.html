@@ -1,0 +1,55 @@
+<div class="row justify-content-center">
+  <h3 class="my-4">I nostri marchi!</h3>
+  <div class="col col-md-10 d-flex justify-content-around mb-3">
+    <div class="logoLink">
+      <img
+        (mouseover)="audiOver = !audiOver"
+        (mouseout)="audiOver = !audiOver"
+        routerLink="/audi"
+        [src]="audiOver ? 'logoAudi.png' : 'logoAudiBeW.png'"
+        class="w-100"
+        alt=""
+      />
+    </div>
+    <div class="logoLink">
+      <img
+        (mouseover)="fiatOver = !fiatOver"
+        (mouseout)="fiatOver = !fiatOver"
+        routerLink="/fiat"
+        [src]="fiatOver ? 'logoFiat.png' : 'logoFiatBeW.png'"
+        class="w-100"
+        alt=""
+      />
+    </div>
+    <div class="logoLink">
+      <img
+        (mouseover)="fordOver = !fordOver"
+        (mouseout)="fordOver = !fordOver"
+        routerLink="/ford"
+        [src]="fordOver ? 'logoFord.png' : 'logoFordBeW.png'"
+        class="w-100"
+        alt=""
+      />
+    </div>
+    <div class="logoLink">
+      <img
+        (mouseover)="toyotaOver = !toyotaOver"
+        (mouseout)="toyotaOver = !toyotaOver"
+        routerLink="/toyota"
+        [src]="toyotaOver ? 'logoToyota.png' : 'logoToyotaBeW.png'"
+        class="w-100"
+        alt=""
+      />
+    </div>
+    <div class="logoLink">
+      <img
+        (mouseover)="volkswagenOver = !volkswagenOver"
+        (mouseout)="volkswagenOver = !volkswagenOver"
+        routerLink="/volkswagen"
+        [src]="volkswagenOver ? 'logoVolkswagen.png' : 'logoVolkswagenBeW.png'"
+        class="w-100"
+        alt=""
+      />
+    </div>
+  </div>
+</div>

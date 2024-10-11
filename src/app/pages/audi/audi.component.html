@@ -1,15 +1,66 @@
-<div class="hero d-flex bg-dark-subtle">
-  <div
-    class="w-50 p-3 d-flex flex-column justify-content-center align-items-center"
-  >
+<div
+  class="hero d-flex flex-column flex-md-row bg-dark-subtle align-items-center"
+>
+  <div class="p-3 d-flex flex-column justify-content-center align-items-center">
     <h1>AUDI</h1>
-    <p class="w-50 text-center">
+    <p class="text-center">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Id autem
       assumenda reiciendis! Lorem ipsum, dolor sit amet consectetur adipisicing
       elit. Veritatis, sapiente!
     </p>
   </div>
-  <div class="w-50">
-    <img src="logoAudi.png" class="w-100" />
+  <div class="text-center order-first order-md-0 pe-3">
+    <img src="logoAudi.png" class="heroLogoCar" />
+  </div>
+</div>
+<div class="container">
+  <app-brand-hover></app-brand-hover>
+  <h3 class="my-5">Le nostre Audi</h3>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+    <div class="col" *ngFor="let car of audiCars">
+      <div
+        [ngClass]="{
+          card: true,
+          'mx-auto': true,
+          disp: car.available,
+          indsp: !car.available
+        }"
+      >
+        <div class="position-relative">
+          <span
+            *ngIf="!car.available"
+            class="badge text-bg-danger position-absolute available"
+            >Non disponibile</span
+          >
+          <span
+            *ngIf="car.available"
+            class="badge text-bg-success position-absolute available"
+            >Disponibile</span
+          >
+
+          <img
+            src="{{ car.modelImage }}"
+            class="card-img-top car-img"
+            alt="immagine macchina"
+          />
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">{{ car.model }}</h5>
+          <p class="card-text">
+            <span>Anno:</span> <span class="fw-bold"> {{ car.year }}</span>
+          </p>
+          <p class="card-text">{{ car.price | currency : "EUR" }}</p>
+          <p class="card-text">
+            {{ car.available ? "Pronta consegna" : "Da ordinare" }}
+          </p>
+        </div>
+        <div class="card-footer bg-transparent border-0"></div>
+      </div>
+    </div>
+  </div>
+  <div class="d-flex justify-content-end">
+    <button routerLink="/" class="btn btn-outline-dark mt-5 mb-3">
+      torna alla home
+    </button>
   </div>
 </div>
