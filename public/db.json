@@ -276,7 +276,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Golf",
-    "modelImage": "https://picsum.photos/200/300?random=7",
+    "modelImage": "https://s1.1zoom.me/big0/328/Volkswagen_Golf_8_hatchback_Front_White_background_585773_1280x720.jpg",
     "year": 2018,
     "price": 15800,
     "available": true
@@ -285,7 +285,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Passat",
-    "modelImage": "https://picsum.photos/200/300?random=23",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/VLK314A-PASSAT%202024_1.jpg",
     "year": 2019,
     "price": 22000,
     "available": false
@@ -294,7 +294,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Tiguan",
-    "modelImage": "https://picsum.photos/200/300?random=24",
+    "modelImage": "https://www.boiautomobili.it/wp-content/uploads/2017/02/nuova-tiguan-r-line2.jpg",
     "year": 2020,
     "price": 28000,
     "available": true
@@ -303,7 +303,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Polo",
-    "modelImage": "https://picsum.photos/200/300?random=25",
+    "modelImage": "https://cdn1.carplanner.com/cars/Volkswagen/Polo/12VLK9654001H.jpg",
     "year": 2017,
     "price": 12000,
     "available": true
@@ -312,7 +312,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Arteon",
-    "modelImage": "https://picsum.photos/200/300?random=26",
+    "modelImage": "https://previews.123rf.com/images/whitecity/whitecity2212/whitecity221200548/206790735-berlino-germania-20-luglio-2022-volkswagen-arteon-r-2022-modello-3d-di-una-grande-auto-liftback.jpg",
     "year": 2021,
     "price": 35000,
     "available": false
@@ -321,7 +321,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "T-Roc",
-    "modelImage": "https://picsum.photos/200/300?random=27",
+    "modelImage": "https://www.lombardamotori.it/images/vehicles/4268392/0/large",
     "year": 2019,
     "price": 24000,
     "available": true
@@ -330,7 +330,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Touareg",
-    "modelImage": "https://picsum.photos/200/300?random=45",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/VLK282A-TOUAREG%202024_1.jpg",
     "year": 2021,
     "price": 40000,
     "available": true
@@ -339,7 +339,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Scirocco",
-    "modelImage": "https://picsum.photos/200/300?random=46",
+    "modelImage": "https://c8.alamy.com/compit/2fk8ng0/sport-coupe-auto-tedesca-isolato-su-sfondo-bianco-2fk8ng0.jpg",
     "year": 2015,
     "price": 18000,
     "available": true
@@ -348,7 +348,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Beetle",
-    "modelImage": "https://picsum.photos/200/300?random=47",
+    "modelImage": "https://images.alphacoders.com/464/thumb-1920-464988.jpg",
     "year": 2017,
     "price": 17000,
     "available": false
@@ -357,7 +357,7 @@
     "brand": "Volkswagen",
     "brandLogo": "logoVolkswagen.png",
     "model": "Up!",
-    "modelImage": "https://picsum.photos/200/300?random=48",
+    "modelImage": "https://www.motornet.it/img/modelli/auto/VLK/Up%203P_1.jpg",
     "year": 2019,
     "price": 10000,
     "available": true
@@ -367,7 +367,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Corolla",
-    "modelImage": "https://picsum.photos/200/300?random=8",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/TOY5392-COROLLA%20CROSS_1_0.jpg",
     "year": 2019,
     "price": 17500,
     "available": true
@@ -376,7 +376,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Camry",
-    "modelImage": "https://picsum.photos/200/300?random=28",
+    "modelImage": "https://netrinoimages.s3.eu-west-2.amazonaws.com/2017/08/13/463730/472417/toyota_camry_xse_2018_3d_model_c4d_max_obj_fbx_ma_lwo_3ds_3dm_stl_5313447.jpg",
     "year": 2020,
     "price": 25000,
     "available": false
@@ -385,7 +385,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "RAV4",
-    "modelImage": "https://picsum.photos/200/300?random=29",
+    "modelImage": "https://www.cheautocompro.it/sites/default/files/images/auto/TOY5348-RAV-4_2_0.jpg",
     "year": 2018,
     "price": 22000,
     "available": true
@@ -394,7 +394,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Yaris",
-    "modelImage": "https://picsum.photos/200/300?random=30",
+    "modelImage": "https://content.presspage.com/uploads/1523/1920_yar1007c-17-2.jpg?10000",
     "year": 2017,
     "price": 12000,
     "available": true
@@ -403,7 +403,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Prius",
-    "modelImage": "https://picsum.photos/200/300?random=31",
+    "modelImage": "https://360view.3dmodels.org/zoom/Toyota/Toyota_Prius_Plus_Mk1f_2015_1000_0001.jpg",
     "year": 2021,
     "price": 28000,
     "available": false
@@ -412,7 +412,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Highlander",
-    "modelImage": "https://picsum.photos/200/300?random=32",
+    "modelImage": "https://img-optimize.toyota-europe.com/resize/ccis/680x680/zip/it/configurationtype/visual-for-grade-selector/product-token/78f2dc6f-f70f-47b1-977d-365b598f6432/grade/551d66fa-f109-44f1-acdb-9a9ac3e7baf6/body/30b0ef55-504f-4ce5-8f54-6856b2e8aa20/fallback/true/padding/50,50,50,50/image-quality/70/day-exterior-4.png",
     "year": 2019,
     "price": 35000,
     "available": true
@@ -421,7 +421,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Avalon",
-    "modelImage": "https://picsum.photos/200/300?random=49",
+    "modelImage": "https://img.freepik.com/foto-premium/auto-isolata-su-sfondo-bianco-toyota-avalon-white-auto-vuota-pulita-su-sfondo-bianco-bianco-nero_655090-605561.jpg",
     "year": 2020,
     "price": 36000,
     "available": true
@@ -430,7 +430,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "C-HR",
-    "modelImage": "https://picsum.photos/200/300?random=50",
+    "modelImage": "https://images.toyota-europe.com/it/product-token/418e8878-46e1-41f0-9691-89168a3e827d/vehicle/67f83dd9-5aea-4dc6-b8be-ff2f058c8e4b/width/1600/height/900/scale-mode/1/padding/12/background-colour/FFFFFF/image-quality/75/day-exterior-27_040_FA20.webp",
     "year": 2020,
     "price": 24000,
     "available": true
@@ -439,7 +439,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Land Cruiser",
-    "modelImage": "https://picsum.photos/200/300?random=51",
+    "modelImage": "https://img.freepik.com/foto-premium/suv-premium-a-sette-posti-per-famiglie-di-grandi-dimensioni-su-uno-sfondo-bianco-isolato-illustrazione-3d_101266-21688.jpg",
     "year": 2019,
     "price": 85000,
     "available": true
@@ -448,7 +448,7 @@
     "brand": "Toyota",
     "brandLogo": "logoToyota.png",
     "model": "Supra",
-    "modelImage": "https://picsum.photos/200/300?random=52",
+    "modelImage": "https://st3.depositphotos.com/6013912/32739/i/950/depositphotos_327393172-stock-photo-almaty-kazakhstan-november-15-fast.jpg",
     "year": 2021,
     "price": 50000,
     "available": true
