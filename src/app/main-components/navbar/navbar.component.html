@@ -1,1 +1,67 @@
-<p>navbar works!</p>
+<nav class="navbar navbar-expand bg-body-secondary">
+  <div class="container-fluid">
+    <a class="navbar-brand" routerLink="/">AutoDistrict</a>
+
+    <ul class="navbar-nav me-auto mb-0">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" routerLink="/">Home</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a
+          (click)="dropOpen = !dropOpen"
+          [ngClass]="{
+            'nav-link dropdown-toggle': true,
+            show: dropOpen
+          }"
+          role="button"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          I nostri marchi
+        </a>
+        <ul [ngClass]="{ 'dropdown-menu py-0': true, show: dropOpen }">
+          <li class="nav-item">
+            <a
+              class="nav-link border-bottom"
+              (click)="dropOpen = !dropOpen"
+              routerLink="/audi"
+              >Audi</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link border-bottom"
+              (click)="dropOpen = !dropOpen"
+              routerLink="/fiat"
+              >Fiat</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link border-bottom"
+              (click)="dropOpen = !dropOpen"
+              routerLink="/ford"
+              >Ford</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link border-bottom"
+              (click)="dropOpen = !dropOpen"
+              routerLink="/toyota"
+              >Toyota</a
+            >
+          </li>
+          <li class="nav-item">
+            <a
+              class="nav-link"
+              (click)="dropOpen = !dropOpen"
+              routerLink="/volkswagen"
+              >Volkswagen</a
+            >
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav>
