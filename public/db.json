@@ -1,0 +1,456 @@
+[
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "500L",
+    "modelImage": "https://picsum.photos/200/300?random=1",
+    "year": 2015,
+    "price": 7500,
+    "available": false
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "500 Abarth",
+    "modelImage": "https://picsum.photos/200/300?random=2",
+    "year": 2010,
+    "price": 3500,
+    "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "Panda",
+    "modelImage": "https://picsum.photos/200/300?random=11",
+    "year": 2018,
+    "price": 8900,
+    "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "Tipo",
+    "modelImage": "https://picsum.photos/200/300?random=12",
+    "year": 2019,
+    "price": 12500,
+    "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "124 Spider",
+    "modelImage": "https://picsum.photos/200/300?random=13",
+    "year": 2017,
+    "price": 18000,
+    "available": false
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "Ducato",
+    "modelImage": "https://picsum.photos/200/300?random=14",
+    "year": 2020,
+    "price": 25000,
+    "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "500",
+    "modelImage": "https://picsum.photos/200/300?random=33",
+    "year": 2012,
+    "price": 5000,
+    "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "Bravo",
+    "modelImage": "https://picsum.photos/200/300?random=34",
+    "year": 2013,
+    "price": 7000,
+    "available": true
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "Croma",
+    "modelImage": "https://picsum.photos/200/300?random=35",
+    "year": 2009,
+    "price": 3000,
+    "available": false
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "https://picsum.photos/100/100?random=7",
+    "model": "Uno",
+    "modelImage": "https://picsum.photos/200/300?random=36",
+    "year": 2007,
+    "price": 1500,
+    "available": true
+  },
+
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Taurus",
+    "modelImage": "https://picsum.photos/200/300?random=3",
+    "year": 2009,
+    "price": 5200,
+    "available": false
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Focus",
+    "modelImage": "https://picsum.photos/200/300?random=4",
+    "year": 2014,
+    "price": 9700,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Mustang",
+    "modelImage": "https://picsum.photos/200/300?random=15",
+    "year": 2018,
+    "price": 32000,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Explorer",
+    "modelImage": "https://picsum.photos/200/300?random=16",
+    "year": 2019,
+    "price": 35000,
+    "available": false
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "F-150",
+    "modelImage": "https://picsum.photos/200/300?random=17",
+    "year": 2020,
+    "price": 40000,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Escape",
+    "modelImage": "https://picsum.photos/200/300?random=18",
+    "year": 2017,
+    "price": 15000,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Fusion",
+    "modelImage": "https://picsum.photos/200/300?random=37",
+    "year": 2013,
+    "price": 6000,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Edge",
+    "modelImage": "https://picsum.photos/200/300?random=38",
+    "year": 2015,
+    "price": 11000,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Bronco",
+    "modelImage": "https://picsum.photos/200/300?random=39",
+    "year": 2021,
+    "price": 45000,
+    "available": false
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "https://picsum.photos/100/100?random=8",
+    "model": "Ranger",
+    "modelImage": "https://picsum.photos/200/300?random=40",
+    "year": 2019,
+    "price": 28000,
+    "available": true
+  },
+
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "A3",
+    "modelImage": "https://picsum.photos/200/300?random=5",
+    "year": 2012,
+    "price": 4300,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "Q7",
+    "modelImage": "https://picsum.photos/200/300?random=6",
+    "year": 2020,
+    "price": 41700,
+    "available": false
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "A4",
+    "modelImage": "https://picsum.photos/200/300?random=19",
+    "year": 2018,
+    "price": 28000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "Q5",
+    "modelImage": "https://picsum.photos/200/300?random=20",
+    "year": 2019,
+    "price": 35000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "TT",
+    "modelImage": "https://picsum.photos/200/300?random=21",
+    "year": 2017,
+    "price": 30000,
+    "available": false
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "R8",
+    "modelImage": "https://picsum.photos/200/300?random=22",
+    "year": 2021,
+    "price": 150000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "A5",
+    "modelImage": "https://picsum.photos/200/300?random=41",
+    "year": 2016,
+    "price": 25000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "S3",
+    "modelImage": "https://picsum.photos/200/300?random=42",
+    "year": 2017,
+    "price": 34000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "Q3",
+    "modelImage": "https://picsum.photos/200/300?random=43",
+    "year": 2019,
+    "price": 37000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "https://picsum.photos/100/100?random=9",
+    "model": "RS6",
+    "modelImage": "https://picsum.photos/200/300?random=44",
+    "year": 2020,
+    "price": 120000,
+    "available": false
+  },
+
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Golf",
+    "modelImage": "https://picsum.photos/200/300?random=7",
+    "year": 2018,
+    "price": 15800,
+    "available": true
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Passat",
+    "modelImage": "https://picsum.photos/200/300?random=23",
+    "year": 2019,
+    "price": 22000,
+    "available": false
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Tiguan",
+    "modelImage": "https://picsum.photos/200/300?random=24",
+    "year": 2020,
+    "price": 28000,
+    "available": true
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Polo",
+    "modelImage": "https://picsum.photos/200/300?random=25",
+    "year": 2017,
+    "price": 12000,
+    "available": true
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Arteon",
+    "modelImage": "https://picsum.photos/200/300?random=26",
+    "year": 2021,
+    "price": 35000,
+    "available": false
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "T-Roc",
+    "modelImage": "https://picsum.photos/200/300?random=27",
+    "year": 2019,
+    "price": 24000,
+    "available": true
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Touareg",
+    "modelImage": "https://picsum.photos/200/300?random=45",
+    "year": 2021,
+    "price": 40000,
+    "available": true
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Scirocco",
+    "modelImage": "https://picsum.photos/200/300?random=46",
+    "year": 2015,
+    "price": 18000,
+    "available": true
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Beetle",
+    "modelImage": "https://picsum.photos/200/300?random=47",
+    "year": 2017,
+    "price": 17000,
+    "available": false
+  },
+  {
+    "brand": "Volkswagen",
+    "brandLogo": "https://picsum.photos/100/100?random=10",
+    "model": "Up!",
+    "modelImage": "https://picsum.photos/200/300?random=48",
+    "year": 2019,
+    "price": 10000,
+    "available": true
+  },
+
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Corolla",
+    "modelImage": "https://picsum.photos/200/300?random=8",
+    "year": 2019,
+    "price": 17500,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Camry",
+    "modelImage": "https://picsum.photos/200/300?random=28",
+    "year": 2020,
+    "price": 25000,
+    "available": false
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "RAV4",
+    "modelImage": "https://picsum.photos/200/300?random=29",
+    "year": 2018,
+    "price": 22000,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Yaris",
+    "modelImage": "https://picsum.photos/200/300?random=30",
+    "year": 2017,
+    "price": 12000,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Prius",
+    "modelImage": "https://picsum.photos/200/300?random=31",
+    "year": 2021,
+    "price": 28000,
+    "available": false
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Highlander",
+    "modelImage": "https://picsum.photos/200/300?random=32",
+    "year": 2019,
+    "price": 35000,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Avalon",
+    "modelImage": "https://picsum.photos/200/300?random=49",
+    "year": 2020,
+    "price": 36000,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "C-HR",
+    "modelImage": "https://picsum.photos/200/300?random=50",
+    "year": 2020,
+    "price": 24000,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Land Cruiser",
+    "modelImage": "https://picsum.photos/200/300?random=51",
+    "year": 2019,
+    "price": 85000,
+    "available": true
+  },
+  {
+    "brand": "Toyota",
+    "brandLogo": "https://picsum.photos/100/100?random=11",
+    "model": "Supra",
+    "modelImage": "https://picsum.photos/200/300?random=52",
+    "year": 2021,
+    "price": 50000,
+    "available": true
+  }
+]
