@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand bg-body-secondary">
+<nav class="navbar navbar-expand bg-body-secondary sticky-top shadow-sm">
   <div class="container-fluid">
     <a class="navbar-brand" routerLink="/">AutoDistrict</a>
 
@@ -10,7 +10,7 @@
         <a
           (click)="dropOpen = !dropOpen"
           [ngClass]="{
-            'nav-link dropdown-toggle': true,
+            'nav-link active dropdown-toggle': true,
             show: dropOpen
           }"
           role="button"
